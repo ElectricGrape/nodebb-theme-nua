@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "nodebb-theme-nua",
+    "name": "NUA",
+    "description": "NUA theme for NodeBB",
+    "url": "https://github.com/nodebb/nodebb-theme-nua"
 }
